@@ -1,0 +1,7 @@
+[project]
+name = "main"
+version = "0.1.0"
+description = "Comparative Evaluation of Drift Detection Methods for Incremental Fine-Tuning in Heat Load Forecasting"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
